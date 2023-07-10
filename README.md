@@ -7,4 +7,4 @@
   * Created [Krptn](https://www.krptn.dev/) (a zero knowledge IAM) and coded it
   * Volunteering for [Envelop Sound](https://envelop.us/page/about) to build some software
   * Currently working on my own Operating System
-  * Building an iOS application about Budapest Museums
+  * Building an iOS application about Budapest Museums with a few other students at [Britannica](https://britannicaschool.hu/)
