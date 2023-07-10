@@ -5,4 +5,6 @@
 * Interested in cybersecurity 🔐
 * Check out some of my work:
   * Created [Krptn](https://www.krptn.dev/) (a zero knowledge IAM) and coded it
-  * Volunteered for [Envelop Sound](https://envelop.us/page/about) to build some software
+  * Volunteering for [Envelop Sound](https://envelop.us/page/about) to build some software
+  * Currently working on my own Operating System
+  * Building an iOS application about Budapest Museums
